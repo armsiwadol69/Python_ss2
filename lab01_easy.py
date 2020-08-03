@@ -1,31 +1,31 @@
 #8/3/2020 Lab1PythonEZ
-#Ex1
+#Example1
 m = 1
 if m == 10 :
     print('Print Value Of m = %d' %m)
 else:
     print('Value Of m = %d' %m)
 
-#Ex2
+#Example2
 a = 10
 b = 2
 if a > b :
     print('a is greater than b')
 
-#Ex3
+#Example3
 x = 5
 y = 1
 if 10 > x > y :
     print(x)
 
-#Ex4
+#Example4
 mark = int(input("Enter You Score : "))
 if 100 >= mark > 80 :
     print('Grade A')
 else:
     print("You got Grade B~F")
 
-#Ex5
+#Example5
 data = int(input('Enter the desired numeric value : '))
 digit = 20
 if data == digit :
@@ -35,7 +35,7 @@ elif data > digit :
 else:
     print('Wrong')
 
-#Ex6
+#Example6
 zipcode = input('Enter zip code : ')
 
 if len(zipcode) <= 0 :
