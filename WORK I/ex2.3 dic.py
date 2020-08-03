@@ -22,7 +22,7 @@ dic1 = {
 dic1["Name"] = "Elysium"
 dic1["Rarity"] = 5
 print(dic1)
-#ex4
+#ex
 dic2 = {
     "Name" : "Manticore",
     "Class" : "Specialist",
@@ -38,4 +38,3 @@ dic3 ={
 }
 dic3.pop("Class")
 print(dic3)
-
